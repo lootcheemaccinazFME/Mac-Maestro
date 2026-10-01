@@ -1,0 +1,3 @@
+package com.flymaccin.macmaestro;
+import android.app.Activity;import android.os.Bundle;import android.graphics.Color;import android.widget.*;
+public class MainActivity extends Activity{public void onCreate(Bundle b){super.onCreate(b);LinearLayout p=new LinearLayout(this);p.setOrientation(LinearLayout.VERTICAL);p.setPadding(24,24,24,24);p.setBackgroundColor(Color.rgb(9,9,12));TextView h=new TextView(this);h.setText("Mac-Maestro Android");h.setTextSize(26);h.setTextColor(Color.WHITE);p.addView(h);for(String s:"DIRECTOR,IMAGE,VIDEO,MUSIC,AUDIO".split(",")){Button x=new Button(this);x.setText(s);p.addView(x);}setContentView(p);}}
