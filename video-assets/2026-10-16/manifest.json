@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-16",
+  "provider": "HeyGen Video 1",
+  "clips": [
+    {
+      "filename": "FME_Fukk_That_Ho_Silent_Performance_15s.mp4",
+      "heygen_video_id": "b3d85b0c7c474824aaa5976229e7a522",
+      "status": "completed",
+      "duration_seconds": 15,
+      "source_image": "1000002203.jpg",
+      "video_url": "https://resource2.heygen.ai/videos/b18bdf58ca6543eeb5fcbecc10888e25/b18bdf58ca6543eeb5fcbecc10888e25/01a14794-1154-794e-9671-8075f59480c2.mp4",
+      "video_page_url": "https://app.heygen.com/videos/b3d85b0c7c474824aaa5976229e7a522",
+      "audio_requirement": "silent; requested, not independently verified",
+      "qc_status": "not reviewed"
+    },
+    {
+      "filename": "FME_1000002557_Animation_5s.mp4",
+      "heygen_video_id": "4d81056226b940e3b10bd2956e691ee9",
+      "status": "completed",
+      "duration_seconds": 5,
+      "source_image": "1000002557.jpg",
+      "video_url": "https://resource2.heygen.ai/videos/b18bdf58ca6543eeb5fcbecc10888e25/b18bdf58ca6543eeb5fcbecc10888e25/01a1479b-84ed-77cd-a432-68edb70507dd.mp4",
+      "video_page_url": "https://app.heygen.com/videos/4d81056226b940e3b10bd2956e691ee9",
+      "audio_requirement": "silent; requested, not independently verified",
+      "qc_status": "not reviewed"
+    },
+    {
+      "filename": "FME_1000002556_Animation_5s.mp4",
+      "heygen_video_id": "4746c424b70b416eaf5caaccbf22bf6e",
+      "status": "completed",
+      "duration_seconds": 5,
+      "source_image": "1000002556.jpg",
+      "video_url": "https://resource2.heygen.ai/videos/b18bdf58ca6543eeb5fcbecc10888e25/b18bdf58ca6543eeb5fcbecc10888e25/01a1479b-cbd9-755a-976f-77acb4accf5f.mp4",
+      "video_page_url": "https://app.heygen.com/videos/4746c424b70b416eaf5caaccbf22bf6e",
+      "audio_requirement": "silent; requested, not independently verified",
+      "qc_status": "not reviewed"
+    }
+  ],
+  "pending_images": [
+    "1000002558.jpg",
+    "1000002553.jpg",
+    "1000002552.jpg",
+    "1000002555.jpg",
+    "1000002554.jpg"
+  ],
+  "pending_reason": "HeyGen free monthly generation quota exhausted",
+  "notes": "Video URLs reference provider-hosted MP4s. Binary copies are not included in this manifest. No full-song or exact lip-sync QC claim."
+}
